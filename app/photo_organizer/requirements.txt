@@ -1,0 +1,7 @@
+PySide6>=6.5.0
+Pillow>=10.0.0
+exifread>=3.0.0
+hachoir>=3.1.2
+structlog>=23.1.0
+watchdog>=3.0.0  # For monitoring file system changes (optional but useful)
+send2trash>=1.8.0 # For safe deletion

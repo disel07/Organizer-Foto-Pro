@@ -1,0 +1,20 @@
+
+# Python and Virtual Env
+__pycache__/
+*.py[cod]
+*$py.class
+app/venv/
+venv/
+.env
+
+# Project specific
+*.db
+app/session.db
+app/logs/
+.obsidian/
+
+# IDEs
+.idea/
+.vscode/
+.DS_Store
+GEMINI.md
